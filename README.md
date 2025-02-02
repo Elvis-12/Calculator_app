@@ -2,4 +2,4 @@
 
 Calculator app using Kotlin
 
- ![Image](https://github.com/user-attachments/assets/81ab1fcc-5c3a-4c6e-86c2-12cea057af13)
+![Image](https://github.com/user-attachments/assets/b886f8f6-59fb-422b-bee6-8c1e165e250f)
